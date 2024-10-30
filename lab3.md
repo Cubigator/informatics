@@ -49,10 +49,13 @@ C: 10.0.2.15
 ```
 sudo iptables -A INPUT -s <ip> -j DROP
 ```
+
 ![image](https://github.com/user-attachments/assets/84e985a9-d3eb-4e18-994e-a80a82bfc261)
+
 Данная команда отклоняет все входящие пакеты с адреса ```<ip>```
 Как видно на скриншоте, после выполнения этой команды на машине B, у нас не получается обратиться к машине C.
 Проверим, что и доступа с машины C в машину B тоже нет:
+
 ![image](https://github.com/user-attachments/assets/ba272318-1090-4dfa-aa8d-4c28d4ea8443)
 
 
