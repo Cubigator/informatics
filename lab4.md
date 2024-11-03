@@ -28,3 +28,9 @@ PINGGS:
 
 ![image](https://github.com/user-attachments/assets/d0b2c036-7b78-4985-aa88-b43d5070dab5)
 
+aafire:
+
+![image](https://github.com/user-attachments/assets/4b53eafd-c66f-463e-8843-07e596814020)
+
+![image](https://github.com/user-attachments/assets/315c6bfa-7c95-43f5-a70c-c63e39cc0112)
+
